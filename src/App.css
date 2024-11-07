@@ -1,0 +1,15 @@
+.app {
+  text-align: center;
+}
+
+.app-header {
+  color: white;
+}
+
+.app-image{
+  width: 100%;
+}
+
+.section-1{
+  min-height:500px;
+}
